@@ -7,4 +7,4 @@ The Website has the following feature:
 4)Delete
 
 
-I have used SQL to build this project.
+I have used SQL,React,Node.JS to build this project.
